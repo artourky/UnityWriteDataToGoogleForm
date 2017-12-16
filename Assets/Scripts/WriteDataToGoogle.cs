@@ -10,6 +10,9 @@ public class WriteDataToGoogle : MonoBehaviour {
     public string qNo2;
     public string multipleChoice;
     public string checkedChoice;
+    public string checkedChoice2;
+    public string checkedChoice3;
+
     public string dropDown;
     public string linear;
 
@@ -35,9 +38,10 @@ public class WriteDataToGoogle : MonoBehaviour {
         form.AddField("entry.1812730518", qNo1);
         form.AddField("entry.1226361512", qNo2);
         form.AddField("entry.1539467159", multipleChoice);
-        form.AddField("entry.117655203_sentinel", checkedChoice);
-        // entry.117655203
-        // entry.117655203
+        form.AddField("entry.117655203", checkedChoice);
+        form.AddField("entry.117655203", checkedChoice2);
+        form.AddField("entry.117655203", checkedChoice3);
+
         // entry.117655203
         form.AddField("entry.654246970", dropDown);
         form.AddField("entry.1296786824", linear);

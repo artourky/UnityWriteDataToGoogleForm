@@ -142,12 +142,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be50263fc26489e418db333ace47490b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  myName: 7th FROM UNITY
+  myName: 20th FROM UNITY
   qNo1: It's about UI now
-  qNo2: NOt sure if it's useful tho
-  multipleChoice: like what if, other options, appear, many maore
-  checkedChoice: even in, the wrong way, what will happend
-  dropDown: baka 20
+  qNo2: Another try at checked choices
+  multipleChoice: Three choices
+  checkedChoice: Check number 1
+  checkedChoice2: Tick number 2
+  checkedChoice3: Nothing number 3
+  dropDown: baka 3
   linear: 5
 --- !u!81 &150598967
 AudioListener:
