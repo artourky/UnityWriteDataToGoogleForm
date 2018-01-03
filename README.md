@@ -1,3 +1,8 @@
+@3/1/2018
+---
+* Using *Unity 2017.2*
+* Now I can **csv** or any _TextAsset_ and parse it through Unity and then maybe push it on a server.
+
 @16/12/2017
 ---
 * At first it was a try to make a soft mask for UI.
